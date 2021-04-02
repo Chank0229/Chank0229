@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently studying on Waseda University
+- 🔭 I’m currently studying at Waseda University
 - 🌱 I’m currently learning Finance
 - 💬 I'm interested in cooking and traveling
 - 📫 How to reach me: kunc0229@gmail.com
