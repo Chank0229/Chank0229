@@ -6,7 +6,8 @@ Hi there 👋
 - 📫 How to reach me: kunc0229@gmail.com
 
 [![Chank's github stats](https://github-readme-stats.vercel.app/api?username=Chank0229)](https://github.com/Chank0229/github-readme-stats)
-theme= dark
+
+?theme= dark
 
 <!--
 **Chank0229/Chank0229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
