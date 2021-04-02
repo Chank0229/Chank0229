@@ -5,7 +5,7 @@ Hi there 👋
 - 💬 I'm interested in cooking and traveling
 - 📫 How to reach me: kunc0229@gmail.com
 
-[![Chank's github stats](https://github-readme-stats.vercel.app/api?username=Chank0229/?theme= dark)](https://github.com/Chank0229/github-readme-stats)
+[![Chank's github stats](https://github-readme-stats.vercel.app/api?username=Chank0229?theme= dark)](https://github.com/Chank0229/github-readme-stats)
 
 
 <!--
