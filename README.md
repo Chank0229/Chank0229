@@ -1,4 +1,4 @@
-Hi there 👋
+Hi I am Chank.👋
 
 - 🔭 I’m currently studying at Waseda University
 - 🌱 I’m currently learning Finance
